@@ -2,6 +2,10 @@ main {
   padding-top: 90px;
 }
 
+.logo {
+  float: left;
+}
+
 .row {
   margin-bottom: 50px;
 }
