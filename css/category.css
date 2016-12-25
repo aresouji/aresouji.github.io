@@ -1,0 +1,80 @@
+.crumbs-box {
+  margin-bottom: 50px;
+}
+
+.crumbs-box p {
+  display: inline-block;
+}
+
+.crumbs-box .glyphicon {
+  font-size: 12px;
+  padding-right: 5px;
+}
+
+.crumbs-box .breadcrumb {
+  padding-left: 50px;
+  display: inline-block;
+  background-color: #fff;
+}
+
+main .row {
+  margin-bottom: 50px;
+}
+
+.item-control .btn-group .btn {
+  height: 34px;
+}
+
+.items .item {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.items .item a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.items .item img {
+  max-width: 90%;
+}
+
+.items .item .category {
+  color: #555;
+}
+
+.items .item .title {
+  text-decoration: underline;
+}
+
+.items .item .price {
+  display: inline-block;
+  border-top: 1px solid #ccc;
+  margin-top: 15px;
+  padding: 5px 30px;
+  color: #555;
+}
+
+.items .item .price .glyphicon {
+  font-size: 12px;
+}
+
+footer {
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+@media (max-width: 767px) {
+  .row {
+    text-align: center;
+  }
+
+  .item-control .btn-group {
+    margin-top: 10px;
+  }
+}
