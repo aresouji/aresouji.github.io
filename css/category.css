@@ -77,4 +77,8 @@ footer ul {
   .item-control .btn-group {
     margin-top: 10px;
   }
+
+  footer ul {
+    margin-top: 30px;
+  }
 }
