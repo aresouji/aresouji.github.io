@@ -67,6 +67,7 @@ footer {
 
 footer ul {
   list-style: none;
+  margin-left: 40px;
 }
 
 @media (max-width: 767px) {
@@ -80,5 +81,6 @@ footer ul {
 
   footer ul {
     margin-top: 40px;
+    margin-left: 0;
   }
 }
